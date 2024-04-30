@@ -1517,6 +1517,10 @@ video {
     justify-content: flex-end;
   }
 
+  .lg\:gap-20 {
+    gap: 5rem;
+  }
+
   .lg\:rounded-xl {
     border-radius: 0.75rem;
   }
