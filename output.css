@@ -796,6 +796,10 @@ video {
   width: max-content;
 }
 
+.w-\[85\%\] {
+  width: 85%;
+}
+
 .max-w-md {
   max-width: 28rem;
 }
@@ -1448,6 +1452,10 @@ video {
 
   .lg\:w-\[70\%\] {
     width: 70%;
+  }
+
+  .lg\:w-\[90\%\] {
+    width: 90%;
   }
 
   .lg\:grid-cols-4 {
